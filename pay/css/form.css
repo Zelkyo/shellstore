@@ -1,0 +1,11 @@
+.adder{
+	width: 100%;
+}
+.adder h1{
+	text-transform: uppercase;
+	border-bottom: solid 1px black;
+	display: inline-block;
+}
+.adder h3{
+	margin: 0;
+}

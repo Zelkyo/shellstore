@@ -1,0 +1,28 @@
+.site-container{
+	text-align: center;
+}
+.verified{
+	text-align: center;
+}
+.verified h2{
+	margin: 0;
+	margin-top: 30vh;
+	transform: translateY(-50%);
+}
+.verified h3{
+	margin: 0;
+}
+.v-btn{
+	background-color: rgba(52, 152, 219,1.0);
+	padding: 15px;
+	padding-left: 40px;
+	padding-right: 40px;
+	color: white;
+	border-radius: 12px;
+	text-transform: uppercase;
+}
+.v-btn:hover{
+	text-decoration: none;
+	color: white;
+	background-color: rgba(41, 128, 185,1.0);
+}

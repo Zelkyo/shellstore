@@ -1,0 +1,55 @@
+@media all and (max-width: 600px){
+	.topper-log{
+		display: block;
+	}
+	.topper-right{
+		display: none;
+		box-sizing: border-box;
+		position: absolute;
+		left: 0;
+		top: 70px;
+		padding: 20px;
+		padding-left: 0;
+		width: 100vw;
+		background-color: rgba(41, 128, 185,1.0);
+		max-height: 0;
+		transition: all ease .3s;
+		z-index: 99999999999;²²²²²²²²²²²²
+	}
+	.topper-btn-reverse{
+		background-color: rgba(52, 152, 219,1.0);
+		border: solid 2px rgba(52, 152, 219,1.0);
+	}
+	.topper-btn-reverse:focus, .topper-btn-reverse:hover{
+		background-color: rgba(52, 152, 219,0.8);
+		border: solid 2px rgba(52, 152, 219,0.8);
+	}
+	.toppered{
+		display: block;
+		max-height: 100px;
+	}
+	.menu{
+		top: 75px;
+	}
+	.fixed{
+		top: 5px;
+	}
+	.menu-submit{
+		width: 170px;
+		border-radius: 0px;
+	}
+	.menu-input{
+		width: calc((100vw - 170px));
+	}
+	.menu-price{
+		display: none;
+	}
+
+	/* Items */
+	
+	.item-title{
+	}
+	.item-description{
+
+	}
+}
