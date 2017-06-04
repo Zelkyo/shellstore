@@ -1,5 +1,5 @@
 # Shellstore
-Online sell platform for shells
+Online sell platform for shells.
 Inscription free, free announces and paypal transaction.
 
 All rights reserved to Axel De sutter. Use PHP, JavaScript, Jquery and Bootstrap from http://www.getbootstrap.com .
